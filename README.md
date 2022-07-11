@@ -6,7 +6,7 @@
  
 🏷️ I'm Dennis Thisner 😎
 
-🏘️ I am From Stockholm , Sweden 🇸🇪
+🏘️ I am From Stockholm , Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦
 
 🎓 I am self tought programming 
 
