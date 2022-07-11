@@ -38,8 +38,8 @@
 </p>
 
 <h3 align="left"> 📝 Stats </h3>
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
-
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
+
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dthisner&theme=solarized_dark" alt="dthisner" />  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dthisner&theme=solarized_dark" alt="dthisner" /> 
