@@ -22,7 +22,7 @@
 <p align="left">
     <a href="https://www.go.dev" target="_blank">
         <img
-            src="https://img.shields.io/badge/Golang-black?&style=for-the-badge&logo=golang"
+            src="https://github.com/egonelbre/gophers/raw/master/.thumb/vector/superhero/standing.png"
         />
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
