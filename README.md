@@ -12,7 +12,7 @@
 
 🖥️ Currently working with Golang, JavaScript and some Python
 
-🎩 Learning Smart Contracts and [Solidity](https://soliditylang.org/) for Blockchain. 
+🎩 Learning Smart Contracts and [Solidity](https://soliditylang.org/) for Blockchain with this [Udemy tutorial](https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional)
 
 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager
 
@@ -23,6 +23,11 @@
     <a href="https://www.go.dev" target="_blank">
         <img
             src="https://img.shields.io/badge/Golang-black?&style=for-the-badge&logo=go"
+        />
+    </a>
+      <a href="https://kubernetes.io/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/kubernetes-black?&style=for-the-badge&logo=kubernetes"
         />
     </a>
     <a href="https://www.javascript.com/" target="_blank">
