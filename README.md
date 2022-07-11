@@ -39,7 +39,8 @@
 
 <h3 align="left"> 📝 Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dthisner&show_icons=true&locale=en" alt="dthisner" /></p>
-<p> ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dthisner&theme=github)</p>
-
-<p> ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dthisner&theme=github)</p>
+<br> 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dthisner&theme=github)
+<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dthisner&theme=github)
 
