@@ -35,6 +35,11 @@
             src="https://img.shields.io/badge/Cypress-black?&style=for-the-badge&logo=cypress"
         />
     </a>
+     <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+        />
+    </a>
 </p>
 
 <h3 align="left"> 📝 Stats </h3>
