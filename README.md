@@ -2,7 +2,7 @@
 
 [![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I+am+Dennis+as+dthisner;Golang+and+Cypress+Developer;Love+helping+people+succeed;Working+at+Plotly)](https://github.com/dthisner)
 
-<h3 align="left">😌 Something About Me:</h3>
+<h3 align="left">😌 Something About Me</h3>
  
 🏷️ I'm Dennis Thisner 😎
 
@@ -18,7 +18,7 @@
 
 🗣️ I know English, Swedish, Golang and JavaScript
 
-<h3 align="left">🔨 Languages and Tools:</h3>
+<h3 align="left">🔨 Top Technologies</h3>
 <p align="left">
     <a href="https://www.go.dev" target="_blank">
         <img
@@ -41,6 +41,12 @@
         />
     </a>
 </p>
+
+<h3 align="left"> 👷‍♂️ Work History </h3>
+
+
+<h3 align="left"> 🏆 Certificates </h3>
+
 
 <h3 align="left"> 📝 Stats </h3>
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
