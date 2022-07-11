@@ -54,3 +54,5 @@
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dthisner&theme=solarized_dark" alt="dthisner" />  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dthisner&theme=solarized_dark" alt="dthisner" /> 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dthisner&left_color=green&right_color=red)
