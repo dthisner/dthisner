@@ -42,6 +42,6 @@
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
+<div>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dthisner&theme=solarized_dark" alt="dthisner" />
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
+&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dthisner&theme=solarized_dark" alt="dthisner" /></div>
