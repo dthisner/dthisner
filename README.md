@@ -51,6 +51,10 @@
 <h2 align="left"> 👷‍♂️ Work History </h2>
 
 
+<h2 align="left"> :books: Education </h2>
+
+
+
 <h2 align="left"> 🏆 Certificates </h2>
 
 - Udemy – PMP Exam Prep Seminar – In Progress (Started Dec 2023)
