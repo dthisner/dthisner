@@ -41,10 +41,18 @@
             src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
         />
     </a>
+      <a href="-" target="_blank">
+        <img
+            src="https://img.shields.io/badge/jira-black?&style=for-the-badge&logo=jira-software"
+        />
+    </a>
 </p>
 
 <h3 align="left"> 👷‍♂️ Work History </h3>
 
 
 <h3 align="left"> 🏆 Certificates </h3>
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
