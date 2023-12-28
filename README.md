@@ -4,14 +4,14 @@
 
 # 😌 Something About Me
 
-| About Me                                                                   | Quick Menu                                |
-| -------------------------------------------------------------------------- | ----------------------------------------- |
-| 🏷️ I'm Dennis Thisner 😎                                                   | [🔨 Top Technologies](#-top-technologies) |
-| 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦 | [👷‍♂️ Work History](#👷‍♂️-work-history)       |
-| I have both Swedish and Canadian citizenship                               | [📚 Education](#📚-education)             |
-| 🎓 I am self tought programmer                                             | [🏆 Certificates](#🏆-certificates)       |
-| 🖥️ Currently code in Golang and JavaScript                                 |                                           |
-| 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager        |                                           |
+| About Me                                                                   | Quick Menu                                 |
+| -------------------------------------------------------------------------- | ------------------------------------------ |
+| 🏷️ I'm Dennis Thisner 😎                                                   | [🔨 Top Technologies](#-top-technologies)  |
+| 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
+| I have both Swedish and Canadian citizenship                               | [📚 Education](#-education)                |
+| 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
+| 🖥️ Currently code in Golang and JavaScript                                 |                                            |
+| 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager        |                                            |
 
 # 🔨 Top Technologies
 
