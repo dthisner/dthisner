@@ -6,11 +6,11 @@
  
 🏷️ I'm Dennis Thisner 😎
 
-🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦 I have both Swedish and Canadian citizenship. 
+🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦 I have both Swedish and Canadian citizenship 
 
-🎓 I am self tought programming 
+🎓 I am self tought programmer 
 
-🖥️ Currently coding in Golang and JavaScript.
+🖥️ Currently code in Golang and JavaScript
 
 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager
 
