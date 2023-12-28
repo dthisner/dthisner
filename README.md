@@ -53,11 +53,18 @@
 
 <h2 align="left"> 🏆 Certificates </h2>
 
-●	Udemy – PMP Exam Prep Seminar – In Progress (Started Dec 2023)
-●	Testing Javascript – May 2022
-●	Udemy – Modern react with Redux – March 2021
-●	Udemy – React JS and Redux – Aug 2020	
-●	Udemy – Web Developer bootcamp – April 2018
-●	Udemy - Learn How To Code: Google's Go (golang) – Feb 2017
-●	Udemy – Robot Framework Level2 – July 2017
-●	Udemy – Robot Framework Level1 – May 2017
+- Udemy – PMP Exam Prep Seminar – In Progress (Started Dec 2023)
+
+- Testing Javascript – May 2022
+
+- Udemy – Modern react with Redux – March 2021
+ 
+- Udemy – React JS and Redux – Aug 2020	
+
+- Udemy – Web Developer bootcamp – April 2018
+
+- Udemy - Learn How To Code: Google's Go (golang) – Feb 2017
+
+- Udemy – Robot Framework Level2 – July 2017
+
+- Udemy – Robot Framework Level1 – May 2017
