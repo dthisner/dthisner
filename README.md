@@ -2,7 +2,7 @@
 
 [![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I+am+Dennis+as+dthisner;Golang+and+Cypress+Developer;Love+helping+people+succeed;Working+at+Plotly)](https://github.com/dthisner)
 
-<h3 align="left">😌 Something About Me</h3>
+<h2 align="left">😌 Something About Me</h2>
  
 🏷️ I'm Dennis Thisner 😎
 
@@ -14,7 +14,7 @@
 
 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager
 
-<h3 align="left">🔨 Top Technologies</h3>
+<h2 align="left">🔨 Top Technologies</h2>
 <p align="left">
     <a href="https://www.go.dev" target="_blank">
         <img
@@ -48,11 +48,16 @@
     </a>
 </p>
 
-<h3 align="left"> 👷‍♂️ Work History </h3>
+<h2 align="left"> 👷‍♂️ Work History </h2>
 
 
-<h3 align="left"> 🏆 Certificates </h3>
+<h2 align="left"> 🏆 Certificates </h2>
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
-
+●	Udemy – PMP Exam Prep Seminar – In Progress (Started Dec 2023)
+●	Testing Javascript – May 2022
+●	Udemy – Modern react with Redux – March 2021
+●	Udemy – React JS and Redux – Aug 2020	
+●	Udemy – Web Developer bootcamp – April 2018
+●	Udemy - Learn How To Code: Google's Go (golang) – Feb 2017
+●	Udemy – Robot Framework Level2 – July 2017
+●	Udemy – Robot Framework Level1 – May 2017
