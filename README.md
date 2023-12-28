@@ -6,17 +6,13 @@
  
 🏷️ I'm Dennis Thisner 😎
 
-🏘️ I am From Stockholm , Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦
+🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦 I have both Swedish and Canadian citizenship. 
 
 🎓 I am self tought programming 
 
-🖥️ Currently working with Golang, JavaScript and some Python
-
-🎩 Learning Smart Contracts and [Solidity](https://soliditylang.org/) for Blockchain with this [Udemy tutorial](https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional)
+🖥️ Currently coding in Golang and JavaScript.
 
 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager
-
-🗣️ I know English, Swedish, Golang and JavaScript
 
 <h3 align="left">🔨 Top Technologies</h3>
 <p align="left">
@@ -52,10 +48,3 @@
 
 <h3 align="left"> 🏆 Certificates </h3>
 
-
-<h3 align="left"> 📝 Stats </h3>
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
-
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dthisner&theme=solarized_dark" alt="dthisner" /></p>
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dthisner&theme=solarized_dark" alt="dthisner" />  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dthisner&theme=solarized_dark" alt="dthisner" /> 
