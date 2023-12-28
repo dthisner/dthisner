@@ -21,11 +21,6 @@
             src="https://img.shields.io/badge/Golang-black?&style=for-the-badge&logo=go"
         />
     </a>
-      <a href="https://kubernetes.io/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/kubernetes-black?&style=for-the-badge&logo=kubernetes"
-        />
-    </a>
     <a href="https://www.javascript.com/" target="_blank">
         <img
             src="https://img.shields.io/badge/JavaScript-black?&style=for-the-badge&logo=javascript"
@@ -34,6 +29,11 @@
     <a href="https://www.cypress.io/" target="_blank">
         <img
             src="https://img.shields.io/badge/Cypress-black?&style=for-the-badge&logo=cypress"
+        />
+    </a>
+       <a href="https://kubernetes.io/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/kubernetes-black?&style=for-the-badge&logo=kubernetes"
         />
     </a>
      <a href="https://github.com/" target="_blank">
