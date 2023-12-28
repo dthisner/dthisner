@@ -2,7 +2,7 @@
 
 [![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I+am+Dennis+as+dthisner;Golang+and+Cypress+Developer;Love+helping+people+succeed;Working+at+Plotly)](https://github.com/dthisner)
 
-<h2 align="left">😌 Something About Me</h2>
+<h1 align="left">😌 Something About Me</h1>
  
 🏷️ I'm Dennis Thisner 😎
 
@@ -14,7 +14,7 @@
 
 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager
 
-<h2 align="left">🔨 Top Technologies</h2>
+<h1 align="left">🔨 Top Technologies</h1>
 <p align="left">
     <a href="https://www.go.dev" target="_blank">
         <img
@@ -48,14 +48,28 @@
     </a>
 </p>
 
-<h2 align="left"> 👷‍♂️ Work History </h2>
+<h1 align="left"> 👷‍♂️ Work History </h1>
 
 
-<h2 align="left"> :books: Education </h2>
+<h1 align="left"> :books: Education </h1>
+
+## Entertainment Business Management / VFS, Vancouver
+January 2013 – December 2013
+
+An intensive course where I was taught about how the business side works within the entertainment industry, everything from being a great leader, a producer, event manager, and a project manager. Worked on several projects to learn hands on experience with being a manager.
+
+## Foundation of Visual Art & Design / VFS, Vancouver
+October 2011 - October 2012
+
+A 1 year intensive course where I learned all about a range of skills such as 3D graphics, the steps to create a short film in 13 shots, people and project management, and 2D perspective drawing. Managed 4 final projects with scheduling, risk analysis, arranging sets and equipment and making sure it was finished on time.
+
+## 3D Graphics / Powerhouse, Kramfors (Sweden)
+August 2007 – June 2029
+
+2 years course with 3 months internship. Learning everything from 2D art, to 3D modeling, animation, rendering and special effects.
 
 
-
-<h2 align="left"> 🏆 Certificates </h2>
+<h1 align="left"> 🏆 Certificates </h1>
 
 - Udemy – PMP Exam Prep Seminar – In Progress (Started Dec 2023)
 
