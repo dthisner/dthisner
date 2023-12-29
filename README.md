@@ -177,3 +177,5 @@ August 2007 – June 2029
 | Robot Framework Level2                  | Udemy              | July 2017   |
 | Robot Framework Level1                  | Udemy              | May 2017    |
 | First Aid                               | St John Ambulance  | Sep 2016    |
+
+[See all certificates](./certificates.md)
