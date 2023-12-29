@@ -4,6 +4,8 @@
 
 # 😌 Something About Me
 
+I come with over 9+ years of QA, 8+ years off automation and 3+ years of managing projects and people. I am eager to learn and I adapt easily to new systems and people. My skills include managing people and projects, programming, automation, and testing. I understand what’s needed to take an idea to reality. I got the experience with risk management, process improvement and working with agile methodology. I bring positive energy and the attitude that nothing is impossible and there is always a solution.
+
 | About Me                                                                   | Quick Menu                                 |
 | -------------------------------------------------------------------------- | ------------------------------------------ |
 | 🏷️ I'm Dennis Thisner 😎                                                   | [🔨 Top Technologies](#-top-technologies)  |
@@ -169,7 +171,9 @@ August 2007 – June 2029
 | Testing Javascript                      | Testing Javascript | May 2022    |
 | Modern react with Redux                 | Udemy              | March 2021  |
 | React JS and Redux                      | Udemy              | Aug 2020    |
+| Selenium WebDriver                      | Udemy              | Jan 2019    |
 | Web Developer bootcamp                  | Udemy              | April 2018  |
 | Learn How To Code: Google's Go (golang) | Udemy              | Feb 2017    |
 | Robot Framework Level2                  | Udemy              | July 2017   |
 | Robot Framework Level1                  | Udemy              | May 2017    |
+| First Aid                               | St John Ambulance  | Sep 2016    |
