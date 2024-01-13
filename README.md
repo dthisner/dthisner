@@ -4,7 +4,7 @@
 
 # 😌 Something About Me
 
-I come with over 8+ years of QA, 7+ years off automation and 3+ years of managing projects and people. I am eager to learn and I adapt easily to new systems and people. My skills include managing people and projects, programming, automation, and testing. I understand what’s needed to take an idea to reality. I got the experience with risk management, process improvement and working with agile methodology. I bring positive energy and the attitude that nothing is impossible and there is always a solution.
+I am a Passionate people leader and accomplished project manager with Proven ability to quickly master new systems, build relationships, and synergize teams for optimal performance. Moving back to Sweden in 2024 to be closer to my family and friends. I have Significant, immersive experience in quality assurance and automation (8 and 7 years respectively), and extensive history in programming and testing with successful track record of delivering extraordinary results in a people-first, remote work culture, with a continuous focus on mentoring, coaching and collaboration.
 
 | About Me                                                                   | Quick Menu                                 |
 | -------------------------------------------------------------------------- | ------------------------------------------ |
@@ -14,6 +14,8 @@ I come with over 8+ years of QA, 7+ years off automation and 3+ years of managin
 | 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
 | 🖥️ Currently code in Golang and JavaScript                                 |                                            |
 | 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager        |                                            |
+
+A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf)
 
 # 🔨 Top Technologies
 
