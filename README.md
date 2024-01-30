@@ -12,7 +12,7 @@ I am a Passionate people leader and accomplished project manager with Proven abi
 | 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
 | I have both Swedish and Canadian citizenship                               | [📚 Education](#-education)                |
 | 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
-| 🖥️ Currently code in Golang and JavaScript                                 |                                            |
+| 🖥️ Currently code in Golang and JavaScript                                 | [🎯 Hobbies](#-hobbies)                    |
 | 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager        |                                            |
 
 A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf)
@@ -184,11 +184,12 @@ August 2007 – June 2029
 
 # 🎯 Hobbies
 
-- Archery
-- Arts & Craft - Painting mini figurines, drawing, wood carving
-- Renovating
-- Working on my vehicle
-- Playing board games
-- Gardening
-- Learning about music (Singing and Guitar)
-- Geocaching
+- 🎯 Archery
+- 🎨 Arts & Craft - Painting mini figurines, drawing, wood carving
+- 🔨 Renovating
+- 🚗 Working on my vehicle
+- 🎲 Playing board games
+- 🌷 Gardening
+- 🎼 Learning about music (Singing and Guitar)
+- 🔎 Geocaching
+- 📖 Reading
