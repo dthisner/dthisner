@@ -181,3 +181,14 @@ August 2007 – June 2029
 | First Aid                               | St John Ambulance  | Sep 2016    |
 
 [See all certificates](./certificates.md)
+
+# 🎯 Hobbies
+
+- Archery
+- Arts & Craft - Painting mini figurines, drawing, wood carving
+- Renovating
+- Working on my vehicle
+- Playing board games
+- Gardening
+- Learning about music (Singing and Guitar)
+- Geocaching
