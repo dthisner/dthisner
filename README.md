@@ -9,7 +9,7 @@ I am a Passionate people leader and accomplished project manager with Proven abi
 | About Me                                                                   | Quick Menu                                 |
 | -------------------------------------------------------------------------- | ------------------------------------------ |
 | 🏷️ I'm Dennis Thisner 😎                                                   | [🔨 Top Technologies](#-top-technologies)  |
-| 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Oliver, BC, Canada 🇨🇦 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
+| 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Sigtuna, Sweden 🇸🇪 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
 | I have both Swedish and Canadian citizenship                               | [📚 Education](#-education)                |
 | 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
 | 🖥️ Currently code in Golang and JavaScript                                 | [🎯 Hobbies](#-hobbies)                    |
@@ -44,7 +44,7 @@ A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf)
 
 ## Engineering Manager / Plotly, Vancouver 🇨🇦
 
-August 2021 - Current
+August 2021 - April 2024
 
 - Mentoring and coaching team members to improve technical skills and leadership abilities.
 - Lead the team to deliver 5.2 on time without excessive over time.
