@@ -13,7 +13,7 @@ I am a Passionate people leader and accomplished project manager with Proven abi
 | I have both Swedish and Canadian citizenship                               | [📚 Education](#-education)                |
 | 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
 | 🖥️ Currently code in Golang and JavaScript                                 | [🎯 Hobbies](#-hobbies)                    |
-| 🔭 I curently work at [Rebtel]([rebtel.com](https://www.rebtel.com/en/)) as a QA Lead        |                                            |
+| 🔭 I curently work at [Rebtel](https://www.rebtel.com/en/) as a QA Lead        |                                            |
 
 A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf)
 
