@@ -13,7 +13,7 @@ I am a Passionate people leader and accomplished project manager with Proven abi
 | I have both Swedish and Canadian citizenship                               | [📚 Education](#-education)                |
 | 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
 | 🖥️ Currently code in Golang and JavaScript                                 | [🎯 Hobbies](#-hobbies)                    |
-| 🔭 I curently work at [Plotly](plotly.com) as a Engineering Manager        |                                            |
+| 🔭 I curently work at [Rebtel]([rebtel.com](https://www.rebtel.com/en/)) as a QA Lead        |                                            |
 
 A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf)
 
@@ -41,6 +41,14 @@ A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf)
 </p>
 
 # 👷‍♂️ Work History
+
+## QA Lead / Rebtel, Stockholm 🇸🇪
+
+April 2024 - Current
+
+- Mentoring and coaching team members to improve technical skills and leadership abilities.
+- Creating processes around QA and delivery
+- Structuring the QA team to work efficent and along the development process 
 
 ## Engineering Manager / Plotly, Vancouver 🇨🇦
 
