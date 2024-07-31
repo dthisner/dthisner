@@ -177,7 +177,7 @@ August 2007 – June 2029
 
 | Course                                  | Location           | Completion  |
 | --------------------------------------- | ------------------ | ----------- |
-| PMP Exam Prep Seminar                   | Udemy              | In progress |
+| Mobile Automation with Appium 2 & WDIO                   | Udemy              | July 2024 |
 | Testing Javascript                      | Testing Javascript | May 2022    |
 | Modern react with Redux                 | Udemy              | March 2021  |
 | React JS and Redux                      | Udemy              | Aug 2020    |
