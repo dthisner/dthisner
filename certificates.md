@@ -1,4 +1,10 @@
 # Certificates
+## Mobile Automation with Appium 2.0 and WebdriverIO - July 2024
+
+[Mobile Automation with Appium 2.0 and WebdriverIO](https://www.udemy.com/course/appium-webdriverio-mobile-automation/) with Dilpreet Johal
+
+![Mobile Automation with Appium 2.0 and WebdriverIO](assets/certificates/2024-07-MobileAutomationWithAppium2andWebDriverIO.jpg)
+
 
 ## Testing Javascript - May 2022
 
