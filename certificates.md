@@ -1,10 +1,16 @@
 # Certificates
+
+## React 18 Course 2024 - Learn React JS the fast way - October 2024
+
+[React 18 Course 2024 - Learn React JS the fast way](https://www.udemy.com/course/master-react/) with Jannick Leismann
+
+![React 18 Course 2024 - Learn React JS the fast way](assets/certificates/2024-10-React18Course2024.jpg)
+
 ## Mobile Automation with Appium 2.0 and WebdriverIO - July 2024
 
 [Mobile Automation with Appium 2.0 and WebdriverIO](https://www.udemy.com/course/appium-webdriverio-mobile-automation/) with Dilpreet Johal
 
 ![Mobile Automation with Appium 2.0 and WebdriverIO](assets/certificates/2024-07-MobileAutomationWithAppium2.0andWebDriverIO.jpg)
-
 
 ## Testing Javascript - May 2022
 

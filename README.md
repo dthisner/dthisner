@@ -9,13 +9,13 @@ I am a Passionate people leader and accomplished project manager with Proven abi
 | About Me                                                                   | Quick Menu                                 |
 | -------------------------------------------------------------------------- | ------------------------------------------ |
 | 🏷️ I'm Dennis Thisner 😎                                                   | [🔨 Top Technologies](#-top-technologies)  |
-| 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Sigtuna, Sweden 🇸🇪 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
+| 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Sigtuna, Sweden 🇸🇪    | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
 | I have both Swedish and Canadian citizenship                               | [📚 Education](#-education)                |
 | 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
 | 🖥️ Currently code in Golang and JavaScript                                 | [🎯 Hobbies](#-hobbies)                    |
-| 🔭 I curently work at [Rebtel](https://www.rebtel.com/en/) as a QA Manager        |                                            |
+| 🔭 I curently work at [Rebtel](https://www.rebtel.com/en/) as a QA Manager |                                            |
 
-A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf)
+A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf) _(Updated Nov 2024)_
 
 # 🔨 Top Technologies
 
@@ -48,7 +48,7 @@ April 2024 - Current
 
 - Mentoring and coaching team members to improve technical skills and leadership abilities.
 - Creating processes around QA and delivery
-- Structuring the QA team to work efficent and along the development process 
+- Structuring the QA team to work efficent and along the development process
 
 ## Engineering Manager / Plotly, Vancouver 🇨🇦
 
@@ -175,18 +175,18 @@ August 2007 – June 2029
 
 # 🏆 Certificates
 
-| Course                                  | Location           | Completion  |
-| --------------------------------------- | ------------------ | ----------- |
-| Mobile Automation with Appium 2 & WDIO                   | Udemy              | July 2024 |
-| Testing Javascript                      | Testing Javascript | May 2022    |
-| Modern react with Redux                 | Udemy              | March 2021  |
-| React JS and Redux                      | Udemy              | Aug 2020    |
-| Selenium WebDriver                      | Udemy              | Jan 2019    |
-| Web Developer bootcamp                  | Udemy              | April 2018  |
-| Learn How To Code: Google's Go (golang) | Udemy              | Feb 2017    |
-| Robot Framework Level2                  | Udemy              | July 2017   |
-| Robot Framework Level1                  | Udemy              | May 2017    |
-| First Aid                               | St John Ambulance  | Sep 2016    |
+| Course                                  | Location           | Completion |
+| --------------------------------------- | ------------------ | ---------- |
+| Mobile Automation with Appium 2 & WDIO  | Udemy              | July 2024  |
+| Testing Javascript                      | Testing Javascript | May 2022   |
+| Modern react with Redux                 | Udemy              | March 2021 |
+| React JS and Redux                      | Udemy              | Aug 2020   |
+| Selenium WebDriver                      | Udemy              | Jan 2019   |
+| Web Developer bootcamp                  | Udemy              | April 2018 |
+| Learn How To Code: Google's Go (golang) | Udemy              | Feb 2017   |
+| Robot Framework Level2                  | Udemy              | July 2017  |
+| Robot Framework Level1                  | Udemy              | May 2017   |
+| First Aid                               | St John Ambulance  | Sep 2016   |
 
 [See all certificates](./certificates.md)
 
