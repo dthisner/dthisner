@@ -175,18 +175,15 @@ August 2007 – June 2029
 
 # 🏆 Certificates
 
-| Course                                  | Location           | Completion |
-| --------------------------------------- | ------------------ | ---------- |
-| Mobile Automation with Appium 2 & WDIO  | Udemy              | July 2024  |
-| Testing Javascript                      | Testing Javascript | May 2022   |
-| Modern react with Redux                 | Udemy              | March 2021 |
-| React JS and Redux                      | Udemy              | Aug 2020   |
-| Selenium WebDriver                      | Udemy              | Jan 2019   |
-| Web Developer bootcamp                  | Udemy              | April 2018 |
-| Learn How To Code: Google's Go (golang) | Udemy              | Feb 2017   |
-| Robot Framework Level2                  | Udemy              | July 2017  |
-| Robot Framework Level1                  | Udemy              | May 2017   |
-| First Aid                               | St John Ambulance  | Sep 2016   |
+| Course                                             | Location           | Completion   |
+| -------------------------------------------------- | ------------------ | ------------ |
+| React 18 Course 2024 - Learn React JS the fast way | Udemy              | October 2024 |
+| Mobile Automation with Appium 2 & WDIO             | Udemy              | July 2024    |
+| Testing Javascript                                 | Testing Javascript | May 2022     |
+| Modern react with Redux                            | Udemy              | March 2021   |
+| React JS and Redux                                 | Udemy              | Aug 2020     |
+| Selenium WebDriver                                 | Udemy              | Jan 2019     |
+| Web Developer bootcamp                             | Udemy              | April 2018   |
 
 [See all certificates](./certificates.md)
 
@@ -195,7 +192,7 @@ August 2007 – June 2029
 - 🎯 Archery
 - 🎨 Arts & Craft - Painting mini figurines, drawing, wood carving
 - 🔨 Renovating
-- 🚗 Working on my vehicle
+- 🚗 Working on my car
 - 🎲 Playing board games
 - 🌷 Gardening
 - 🎼 Learning about music (Singing and Guitar)
