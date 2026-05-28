@@ -8,14 +8,14 @@ Hi there! I’m someone who likes to have fun while getting things done. I enjoy
 
 I’ve spent over 10 years in the testing space, including 4+ years in management, building QA teams, processes, and automation strategies from the ground up. My experience covers manual and automated testing across mobile and web, with a strong track record of delivery, leadership, mentoring, and hands-on work with different frameworks.
 
-| About Me                                                                  | Quick Menu                                 |
-| ------------------------------------------------------------------------- | ------------------------------------------ |
-| 🏷️ I'm Dennis Thisner 😎                                                  | [🔨 Top Technologies](#-top-technologies)  |
-| 🏘️ I'm from Stockholm, Sweden 🇸🇪 and currently live in Sigtuna, Sweden 🇸🇪 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
-| 🇸🇪 🇨🇦 I have both Swedish and Canadian citizenship                        | [📚 Education](#-education)                |
-| 🎓 I am a self-taught programmer                                          | [🏆 Certificates](#-certificates)          |
-| 🖥️ I currently code in Go, JavaScript, and TypeScript                     | [🎯 Hobbies](#-hobbies)                    |
-| 🔭 I currently work at [Rebtel](https://www.rebtel.com/en/) as QA Manager |                                            |
+| About Me                                                                   | Quick Menu                                 |
+| -------------------------------------------------------------------------- | ------------------------------------------ |
+| 🏷️ I'm Dennis Thisner 😎                                                   | [🔨 Top Technologies](#-top-technologies)  |
+| 🏘️ I'm from Uppsala, Sweden 🇸🇪 and currently live in Björklinge, Sweden 🇸🇪 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
+| 🇸🇪 🇨🇦 I have both Swedish and Canadian citizenship                         | [📚 Education](#-education)                |
+| 🎓 I am a self-taught programmer                                           | [🏆 Certificates](#-certificates)          |
+| 🖥️ I currently code in Go, JavaScript, and TypeScript                      | [🎯 Hobbies](#-hobbies)                    |
+| 🔭 I currently work at [Rebtel](https://www.rebtel.com/en/) as QA Manager  |                                            |
 
 A handy PDF version of:
 
