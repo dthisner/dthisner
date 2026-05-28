@@ -1,157 +1,164 @@
 # Dennis Thisner
 
-[![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I+am+Dennis+as+dthisner;Golang+and+Cypress+Developer;Love+helping+people+succeed;Working+at+Plotly)](https://github.com/dthisner)
+[![SVG_Typing](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I+am+Dennis+as+dthisner;QA+Manager+and+Automation+Builder;Love+helping+people+succeed;Working+at+Rebtel)](https://github.com/dthisner)
 
 # 😌 Something About Me
 
-I am a Passionate people leader and accomplished project manager with Proven ability to quickly master new systems, build relationships, and synergize teams for optimal performance. Moving back to Sweden in 2024 to be closer to my family and friends. I have Significant, immersive experience in quality assurance and automation (8 and 7 years respectively), and extensive history in programming and testing with successful track record of delivering extraordinary results in a people-first, remote work culture, with a continuous focus on mentoring, coaching and collaboration.
+Hi there! I’m someone who likes to have fun while getting things done. I enjoy working with my team and seeing them succeed, because that’s how we all win.
 
-| About Me                                                                   | Quick Menu                                 |
-| -------------------------------------------------------------------------- | ------------------------------------------ |
-| 🏷️ I'm Dennis Thisner 😎                                                   | [🔨 Top Technologies](#-top-technologies)  |
-| 🏘️ I am From Stockholm, Sweden 🇸🇪. Currently live in Sigtuna, Sweden 🇸🇪    | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
-| I have both Swedish and Canadian citizenship                               | [📚 Education](#-education)                |
-| 🎓 I am self tought programmer                                             | [🏆 Certificates](#-certificates)          |
-| 🖥️ Currently code in Golang and JavaScript                                 | [🎯 Hobbies](#-hobbies)                    |
-| 🔭 I curently work at [Rebtel](https://www.rebtel.com/en/) as a QA Manager |                                            |
+I’ve spent over 10 years in the testing space, including 4+ years in management, building QA teams, processes, and automation strategies from the ground up. My experience covers manual and automated testing across mobile and web, with a strong track record of delivery, leadership, mentoring, and hands-on work with different frameworks.
 
-A handy PDF version of [my Resume](./assets/Resume-Dennis%20Thisner.pdf) _(Updated Nov 2024)_
+| About Me                                                                  | Quick Menu                                 |
+| ------------------------------------------------------------------------- | ------------------------------------------ |
+| 🏷️ I'm Dennis Thisner 😎                                                  | [🔨 Top Technologies](#-top-technologies)  |
+| 🏘️ I'm from Stockholm, Sweden 🇸🇪 and currently live in Sigtuna, Sweden 🇸🇪 | [👷‍♂️ Work History](#%EF%B8%8F-work-history) |
+| 🇸🇪 🇨🇦 I have both Swedish and Canadian citizenship                        | [📚 Education](#-education)                |
+| 🎓 I am a self-taught programmer                                          | [🏆 Certificates](#-certificates)          |
+| 🖥️ I currently code in Go, JavaScript, and TypeScript                     | [🎯 Hobbies](#-hobbies)                    |
+| 🔭 I currently work at [Rebtel](https://www.rebtel.com/en/) as QA Manager |                                            |
+
+A handy PDF version of:
+
+- [my QA Manager Resume](./assets/Resume-QA-Manager-Dennis-Thisner.pdf) _(Updated May 2026)_
+- [my SDET / QA-Engineer Resume](./assets/Resume-SDET-QA-Engineering-Dennis-Thisner.pdf) _(Updated May 2026)_
 
 # 🔨 Top Technologies
 
 <p align="left">
         <img
-            src="https://img.shields.io/badge/Golang-black?&style=for-the-badge&logo=go"
+            src="https://img.shields.io/badge/Go-black?&style=for-the-badge&logo=go"
         />
         <img
             src="https://img.shields.io/badge/JavaScript-black?&style=for-the-badge&logo=javascript"
         />
         <img
+            src="https://img.shields.io/badge/TypeScript-black?&style=for-the-badge&logo=typescript"
+        />
+        <img
             src="https://img.shields.io/badge/Cypress-black?&style=for-the-badge&logo=cypress"
         />
         <img
-            src="https://img.shields.io/badge/kubernetes-black?&style=for-the-badge&logo=kubernetes"
+            src="https://img.shields.io/badge/WebdriverIO-black?&style=for-the-badge&logo=webdriverio"
+        />
+        <img
+            src="https://img.shields.io/badge/BrowserStack-black?&style=for-the-badge&logo=browserstack"
+        />
+        <img
+            src="https://img.shields.io/badge/Kubernetes-black?&style=for-the-badge&logo=kubernetes"
+        />
+        <img
+            src="https://img.shields.io/badge/Docker-black?&style=for-the-badge&logo=docker"
         />
         <img
             src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
         />
         <img
-            src="https://img.shields.io/badge/jira-black?&style=for-the-badge&logo=jira-software"
+            src="https://img.shields.io/badge/Jira-black?&style=for-the-badge&logo=jira-software"
         />
+<img src="https://img.shields.io/badge/Claude-black?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 # 👷‍♂️ Work History
 
 ## QA Manager / Rebtel, Stockholm 🇸🇪
 
-April 2024 - Current
+April 2024 – Current
 
-- Mentoring and coaching team members to improve technical skills and leadership abilities.
-- Creating processes around QA and delivery
-- Structuring the QA team to work efficent and along the development process
+- Built QA strategies and processes from scratch, including AI-driven testing initiatives.
+- Scaled Rebtel’s test coverage from 300 to over 2,000 test cases.
+- Implemented a test user management tool used across the whole company.
+- Managed a team of 6 QA engineers, both remote and in-house, providing clear goals, structure, and support.
+- Set up QA infrastructure using WebdriverIO, BrowserStack, TypeScript, and Cypress.
+- Planned the QA roadmap for test case creation and automation across web and mobile apps.
 
-## Engineering Manager / Plotly, Vancouver 🇨🇦
+## Senior QA Engineer → QA Manager / Plotly, Vancouver 🇨🇦
 
-August 2021 - April 2024
+June 2021 – April 2024
 
-- Mentoring and coaching team members to improve technical skills and leadership abilities.
-- Lead the team to deliver 5.2 on time without excessive over time.
-- Reduced our supported configurations from 21 to 14, saving about $140 000 in development and testing cost.
-- Successfully managed the quality and release to ship our first version of Dash Enterprise 5.0, running on 21 different configurations.
-- Developed the development process and shaping shape up into what Plotly is using today.
+Promoted to QA Manager within 3 months after rapidly establishing Plotly’s QA foundation across process, tooling, automation, and quality standards.
 
-## Senior QA Engineer / Plotly, Vancouver 🇨🇦
+- Built and scaled QA strategies and processes from scratch.
+- Defined quality standards and coached the wider team on QA best practices.
+- Led QA delivery for Dash Enterprise 5.0, 5.1, and 5.2.
+- Created an internal tool that reduced environment seeding time by over 40%.
+- Set up Cypress automation in CI, with automated test reports sent directly to Slack.
+- Reduced supported configurations from 21 to 14, saving approximately $140,000 in costs.
 
-June 2021 – August 2021
+## QA Engineer → Senior QA Engineer / Apply Digital, Vancouver 🇨🇦
 
-- Implemented a tool to seed our environments with apps, users and groups, used by QA and engineering team to conduct different testing. Reducing prep time with over 40%.
-- Created the testing process, defining what quality is and teaching it to the rest of the team.
-- Setup Cypress successfully and running automatically in the CI and sends out reports into Slack.
-- Setting up test cases, test plans for both DE4 and DE5, setting the bar of quality.
+January 2019 – June 2021
 
-## Senior QA Engineer / Apply Digital, Vancouver 🇨🇦
+Progressed from QA Engineer to Senior QA Engineer while driving test automation adoption, mentoring team members, and leading QA delivery across mobile and web projects.
 
-May 2020 – June 2021
+- Coached 4 manual testers into QA Engineer roles through hands-on mentoring and technical guidance.
+- Introduced Cypress and created easy-to-follow onboarding tutorials to accelerate automation adoption.
+- Built a streamlined automated E2E setup, reducing setup time by over 20%.
+- Expanded native and web mobile E2E test coverage across iOS and Android.
+- Led QA delivery for an award-winning mobile game recognized with Muse and NYX awards in 2020.
+- Mentored junior project managers and product owners on QA process, quality standards, and delivery expectations.
 
-- Successfully educated 4 manual testers to be promoted to QA Engineers.
-- Set on a project which was being delayed and with a very unhappy customer. Helped the QA to re-structure the testing, helped the PMO to gather the requirements and be responsive with the customer, leading to a successful delivered project and happy customer.
-- Lead QA effort for mobile game which received 2 awards. (Muse and NYX awards 2020)
-- Reviewed customer requirements and provided early feedback and highlighted risks.
+## QA Specialist → QA Engineer / Cumul8, Vancouver 🇨🇦
 
-## QA Engineer / Apply Digital, Vancouver 🇨🇦
+November 2015 – December 2018
 
-Jan 2019 – May 2020
+Progressed from QA Specialist to QA Engineer while building QA processes, improving release workflows, and strengthening test automation and CI infrastructure.
 
-- Introducing and setting up Cypress and easy to follow "Get going with Cypress" tutorials
-- Creating a streamline and automated way to add Cypress to other projects, reducing the setup time with over 20%.
-- Providing guidance to junior project manager and product owners.
-- Creating workflows to quickly create templates for test plans and test case creation.
-
-## QA Engineer / Cumul8, Vancouver 🇨🇦
-
-May 2016 – December 2018
-
-- Introducing and setting up Cypress and having it running it in the CI.
-- Schedule releases and managing our offshore team.
-- Rebuilt the whole front-end CI builder, running 15% faster and easier to maintain.
-- Managed testing 3-5 different projects running on 4-6 different operating systems.
-- Troubleshooting our system which runs on Kubernetes.
-
-## QA Specialist / Cumul8, Vancouver 🇨🇦
-
-Nov 2015 – May 2016
-
-- Created the QA testing process with test plans, test strategies for both mobile and web.
-- Scheduled releases and setup Testing, Staging and Prod env.
-- Pushed to get accurate and simulated customer data for our Prod env.
-- Worked with 3 different projects at the same time and still delivered high quality bugs and reports.
+- Created QA testing processes from scratch, including test plans and test strategies for both mobile and web.
+- Scheduled releases and helped set up testing, staging, and production environments.
+- Advocated for accurate, simulated customer data to improve production-like testing.
+- Introduced and set up Cypress automation, running tests automatically in CI.
+- Coordinated QA delivery with an offshore team.
+- Rebuilt the front-end CI builder, making it 15% faster and easier to maintain.
+- Managed testing across 3–5 active projects running on 4–6 different operating systems.
+- Troubleshot Kubernetes-based systems to support testing and release stability.
 
 ## QA Dev Support / United Front Games, Vancouver 🇨🇦
 
-March 2015 – Nov 2015
+March 2015 – November 2015
 
-- In charge of testing and deploying patches with a team of 8 testers.
-- Figured out a way to reproduce issues using a development environment that was pointing to our prod env and making sure that our prod env was not changed.
-- Created documentation and tutorials to get new hires up to speed.
+- Owned testing and patch deployment together with a team of 8 testers.
+- Identified reliable ways to reproduce production-related issues using a dedicated development environment.
+- Created documentation and onboarding tutorials to help new hires ramp up quickly.
 
 ## Quality Assurance / Cumul8, Vancouver 🇨🇦
 
-Jan 2015 – Feb 2015
+January 2015 – February 2015
 
-- Implemented testing foundation with test plans and test strategies.
-- Tested web and mobile applications.
-- Thought rest of the team about the testing process.
+- Implemented the initial QA foundation, including test plans and test strategies.
+- Tested web and mobile applications across key product flows.
+- Taught the wider team how to follow the testing process and improve release quality.
 
 ## Project Manager / Victory Square Games, Vancouver 🇨🇦
 
-Jan 2014 – Nov 2014
+January 2014 – November 2014
 
-- Planned and managed a team of 8 to successfully deliver 4 games to the Microsoft game store
-- Successfully helped writing 2 proposal to get government funding
-- Reported risks and progress to CEO, angel investors and Microsoft.
+- Planned and managed a team of 8 to successfully deliver 4 games to the Microsoft Store.
+- Helped write 2 successful proposals to secure government funding.
+- Reported risks and progress to the CEO, angel investors, and Microsoft.
 
 ## HeroBiX / Self Employed, Uppsala 🇸🇪
 
-Dec 2008 – Oct 2011
+December 2008 – October 2011
 
-- Freelance motion capture operator/assistance
-- Installation of computers, TC and sound
+- Worked as a freelance motion capture operator and assistant.
+- Supported computer, timecode, and sound setup for production environments.
 
 ## Service Desk / Vattenfall, Stockholm 🇸🇪
 
-April 2011 – Oct 2011
+April 2011 – October 2011
 
-- Serviced multitude clients within the Vattenfall organisations every day.
-- Decreased the daily tickets with 10 by teaching clients about issues and how to avoid them.
-- Received thanks 3 times during my 5 month period from clients.
+- Supported multiple clients across Vattenfall’s organization every day.
+- Reduced daily tickets by teaching clients how to avoid recurring issues.
+- Received positive client feedback 3 times during a 5-month period.
 
 ## Technical Artist / Imagination Studios, Uppsala 🇸🇪
 
-Dec 2008 – Dec 2010
+December 2008 – December 2010
 
-- Worked on AAA titles as Bad Company 2, Battlefield 3, Alan Wake and Bulletstorm
-- Managed the mocap recording, preparing for the shoot with creating props, managing the clients and actors during the shoot.
-- Cleaned the animation, importing and exporting it to different engines
+- Worked on AAA titles including Bad Company 2, Battlefield 3, Alan Wake, and Bulletstorm.
+- Managed motion capture recordings, including shoot preparation, prop creation, client support, and actor coordination.
+- Cleaned animation data and imported/exported assets across different engines.
 
 # 📚 Education
 
@@ -159,42 +166,42 @@ Dec 2008 – Dec 2010
 
 January 2013 – December 2013
 
-An intensive course where I was taught about how the business side works within the entertainment industry, everything from being a great leader, a producer, event manager, and a project manager. Worked on several projects to learn hands on experience with being a manager.
+An intensive program focused on the business side of the entertainment industry, including leadership, production, event management, and project management. Worked on several hands-on projects to develop practical management experience.
 
 ## Foundation of Visual Art & Design / VFS, Vancouver 🇨🇦
 
-October 2011 - October 2012
+October 2011 – October 2012
 
-A 1 year intensive course where I learned all about a range of skills such as 3D graphics, the steps to create a short film in 13 shots, people and project management, and 2D perspective drawing. Managed 4 final projects with scheduling, risk analysis, arranging sets and equipment and making sure it was finished on time.
+A 1-year intensive program covering 3D graphics, short film planning, people and project management, and 2D perspective drawing. Managed 4 final projects, including scheduling, risk analysis, set planning, equipment coordination, and delivery.
 
 ## 3D Graphics / Powerhouse, Kramfors 🇸🇪
 
-August 2007 – June 2029
+August 2007 – June 2009
 
-2 years course with 3 months internship. Learning everything from 2D art, to 3D modeling, animation, rendering and special effects.
+A 2-year program with a 3-month internship, covering 2D art, 3D modeling, animation, rendering, and special effects.
 
 # 🏆 Certificates
 
-| Course                                             | Location           | Completion   |
-| -------------------------------------------------- | ------------------ | ------------ |
-| React 18 Course 2024 - Learn React JS the fast way | Udemy              | October 2024 |
-| Mobile Automation with Appium 2 & WDIO             | Udemy              | July 2024    |
-| Testing Javascript                                 | Testing Javascript | May 2022     |
-| Modern react with Redux                            | Udemy              | March 2021   |
-| React JS and Redux                                 | Udemy              | Aug 2020     |
-| Selenium WebDriver                                 | Udemy              | Jan 2019     |
-| Web Developer bootcamp                             | Udemy              | April 2018   |
+| Course                                             | Location           | Completion    |
+| -------------------------------------------------- | ------------------ | ------------- |
+| React 18 Course 2024 - Learn React JS the fast way | Udemy              | October 2024  |
+| Mobile Automation with Appium 2 & WDIO             | Udemy              | July 2024     |
+| Testing Javascript                                 | Testing Javascript | May 2022      |
+| Modern React with Redux                            | Udemy              | March 2021    |
+| React JS and Redux                                 | Udemy              | August 2020   |
+| Selenium WebDriver                                 | Udemy              | January 2019  |
+| Web Developer Bootcamp                             | Udemy              | April 2018    |
+| Learn How To Code: Go                              | Udemy              | February 2017 |
 
 [See all certificates](./certificates.md)
 
 # 🎯 Hobbies
 
 - 🎯 Archery
-- 🎨 Arts & Craft - Painting mini figurines, drawing, wood carving
+- 🎨 Arts & crafts: painting miniatures, drawing, and wood carving
 - 🔨 Renovating
 - 🚗 Working on my car
 - 🎲 Playing board games
 - 🌷 Gardening
-- 🎼 Learning about music (Singing and Guitar)
 - 🔎 Geocaching
 - 📖 Reading
