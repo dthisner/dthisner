@@ -1,16 +1,28 @@
 # Certificates
 
+## Gen AI for QA: Playwright, Copilot & Claude Code - August 2026
+
+[Gen AI for QA: Playwright, Copilot & Claude Code](https://www.udemy.com/course/generative-ai-test-automation/) with Alex Dan
+
+![Gen AI for QA: Playwright, Copilot & Claude Code](assets/certificates/2026-08-GenAIforQA-PlaywrightCopilotClaudeCode.jpg)
+
+This training focuses on applying Generative AI and prompt engineering to modern QA automation workflows, from generating test plans, test cases, test data, and bug reports to supporting test execution and reporting. It covers building complete Playwright and Selenium test projects with GitHub Copilot, creating AI agents, and integrating MCP servers such as Playwright MCP, Chrome DevTools MCP, and AWS Documentation MCP to give agents access to real testing tools and resources. It also explores running private local LLMs with Ollama inside GitHub Copilot and Claude Code, configuring reusable prompt patterns, and using AI throughout the full software testing lifecycle to make QA automation faster, more consistent, and more scalable.
+
 ## React 18 Course 2024 - Learn React JS the fast way - October 2024
 
 [React 18 Course 2024 - Learn React JS the fast way](https://www.udemy.com/course/master-react/) with Jannick Leismann
 
 ![React 18 Course 2024 - Learn React JS the fast way](assets/certificates/2024-10-React18Course2024.jpg)
 
+This training provides an intensive introduction to React, focusing on building complete, maintainable web applications such as a modern video platform. It covers working with data, reusable React components, routing, state management, and reducers for scalable application architecture, as well as consuming RESTful APIs with Axios. The course also introduces unit testing with Vitest, JWT-based authentication and user management, and storing user information in databases, giving learners practical experience with both frontend development and the supporting application functionality needed to build production-ready React applications.
+
 ## Mobile Automation with Appium 2.0 and WebdriverIO - July 2024
 
 [Mobile Automation with Appium 2.0 and WebdriverIO](https://www.udemy.com/course/appium-webdriverio-mobile-automation/) with Dilpreet Johal
 
 ![Mobile Automation with Appium 2.0 and WebdriverIO](assets/certificates/2024-07-MobileAutomationWithAppium2.0andWebDriverIO.jpg)
+
+This training focuses on mobile test automation using JavaScript, WebdriverIO, and Appium for both Android and iOS applications. It covers building and optimizing a scalable mobile automation framework, integrating cloud-based testing through BrowserStack, and setting up continuous integration with GitHub Actions. The course provides practical experience in creating reliable, maintainable automated mobile tests and incorporating them into modern CI workflows.
 
 ## Testing Javascript - May 2022
 

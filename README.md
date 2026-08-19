@@ -38,6 +38,9 @@ A handy PDF version of:
             src="https://img.shields.io/badge/Cypress-black?&style=for-the-badge&logo=cypress"
         />
         <img
+            src="https://img.shields.io/badge/Playwright-black?&style=for-the-badge&logo=playwright"
+        />
+                <img
             src="https://img.shields.io/badge/WebdriverIO-black?&style=for-the-badge&logo=webdriverio"
         />
         <img
@@ -61,9 +64,15 @@ A handy PDF version of:
 
 # 👷‍♂️ Work History
 
+## QA Lead / Prevas, Uppsala 🇸🇪
+
+Sep 2026 -
+
+- TBD
+
 ## QA Manager / Rebtel, Stockholm 🇸🇪
 
-April 2024 – Current
+April 2024 – Sep 2026
 
 - Built QA strategies and processes from scratch, including AI-driven testing initiatives.
 - Scaled Rebtel’s test coverage from 300 to over 2,000 test cases.
@@ -184,6 +193,7 @@ A 2-year program with a 3-month internship, covering 2D art, 3D modeling, animat
 
 | Course                                             | Location           | Completion    |
 | -------------------------------------------------- | ------------------ | ------------- |
+| Gen AI for QA: Playwright, Copilot & Claude Code   | Udemy              | August 2026   |
 | React 18 Course 2024 - Learn React JS the fast way | Udemy              | October 2024  |
 | Mobile Automation with Appium 2 & WDIO             | Udemy              | July 2024     |
 | Testing Javascript                                 | Testing Javascript | May 2022      |
@@ -203,5 +213,5 @@ A 2-year program with a 3-month internship, covering 2D art, 3D modeling, animat
 - 🚗 Working on my car
 - 🎲 Playing board games
 - 🌷 Gardening
-- 🔎 Geocaching
+- 🍷 Brewing wine and mead
 - 📖 Reading
