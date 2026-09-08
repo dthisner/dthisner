@@ -87,9 +87,11 @@ Completed Robot Framework Test Automation – Level 1, gaining practical experie
 
 ## Golang - February 2017
 
-[Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/robot-framework-1/) with Todd McLeod
+[Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/go-programming-language/) with Todd McLeod
 
 ![Golang](assets/certificates/2017-02-Udemy-GoLang.jpg)
+
+Completed Web Development with Google’s Go (Golang) Programming Language, gaining practical experience developing server-side web applications and RESTful APIs using Go. Built a strong understanding of Go’s web development capabilities, including HTTP servers, routing, REST, JSON, templates, cookies, sessions, HTTP methods and response codes, and file serving. Worked with Go’s standard library to build web applications without relying on third-party frameworks, while developing an understanding of scalable, performant, and distributed server-side applications.
 
 ## First Aid - September 2016
 
