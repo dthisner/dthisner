@@ -30,17 +30,23 @@ This training focuses on mobile test automation using JavaScript, WebdriverIO, a
 
 ![Testing Javascript](assets/certificates/2022-05-JavaScriptTestingCertificate.jpg)
 
+Completed the Testing JavaScript course by Kent C. Dodds, developing practical skills in writing maintainable and reliable automated tests for JavaScript applications. Covered unit and integration testing with Jest, component testing with React Testing Library, end-to-end testing with Cypress, mocking and test doubles, static analysis using tools such as ESLint and TypeScript, test-driven development, code coverage, and effective testing strategies. Gained a strong understanding of how to structure tests around user behaviour and critical application functionality to improve software quality, maintainability, and confidence when shipping changes.
+
 ## Modern React with Redux - March 2021
 
 [Modern React with Redux](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/) with Rayan Slim
 
 ![Modern React with Redux](assets/certificates/2021-03-Udemy-Modern%20React%20with%20Redux%20[2020%20Update].jpg)
 
+Completed The Complete React JS & Redux Course, developing practical experience building modern single-page web applications with React and Redux. Built a full Instagram-style photo-sharing application using reusable React components, JSX, props, state management, React Router, and responsive UI development. Gained hands-on experience with Redux for predictable global state management, actions and reducers, Redux DevTools, and asynchronous data handling with Redux Thunk. Integrated Firebase as a real-time NoSQL database to persist application data, including posts and comments, and developed features such as navigation, adding and removing content, and commenting.
+
 ## The Complete React Js & Redux Course - August 2020
 
 [The Complete React Js & Redux Course - Build Modern Web Apps](https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps) with Rayan Slim
 
 ![Modern React with Redux](assets/certificates/2020-08-Udemy-Complete%20React%20JS%20and%20Redux%20Course.jpg)
+
+Completed The Complete React JS & Redux Course, gaining hands-on experience building modern single-page web applications with React and Redux. Developed an Instagram-style photo-sharing application using reusable React components, JSX, props, state management, React Router, and responsive UI development. Worked with Redux to implement centralized application state using stores, actions, reducers, and Redux DevTools, including features for managing posts and comments. Integrated Firebase as a real-time NoSQL database and used asynchronous Redux actions to persist, retrieve, update, and remove application data. The course provided practical experience in structuring React applications, managing complex application state, implementing client-side navigation, and debugging interactive web applications.
 
 ## The Web Developer Bootcamp - April 2019
 
