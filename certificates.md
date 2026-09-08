@@ -48,6 +48,8 @@ This training focuses on mobile test automation using JavaScript, WebdriverIO, a
 
 ![The Web Developer Bootcamp](assets/certificates/2019-04-Udemy-Web-Developer-Bootcamp.jpg)
 
+Completed The Web Developer Bootcamp by Colt Steele, gaining hands-on experience across the full web development stack. Developed responsive and accessible web interfaces using HTML5, CSS3, JavaScript, Bootstrap, and modern JavaScript features, before progressing to full-stack development with Node.js, Express, MongoDB, and Mongoose. Built RESTful web applications with database relationships, authentication and authorization, sessions, form validation, and secure user interactions, while working with APIs, AJAX, npm, Git, and command-line tools. Also gained practical experience with React, deployment, cloud databases, image storage, and common web security concerns such as SQL injection and XSS through multiple real-world projects.
+
 ## C++ Tutorial for Complete Beginners - March 2019
 
 [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) with John Purcell
