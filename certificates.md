@@ -62,6 +62,7 @@ Completed The Web Developer Bootcamp by Colt Steele, gaining hands-on experience
 
 ![C++ Tutorial for Complete Beginners](assets/certificates/2019-03-Udemy-BegginerCourseC++.jpg)
 
+Completed C++ Tutorial for Complete Beginners, gaining a solid foundation in C++ programming and object-oriented programming concepts. Covered core language fundamentals including variables and data types, input/output, operators, conditional statements, loops, functions, arrays, pointers, structures, classes, and file handling. Developed practical experience writing and executing C++ programs while building an understanding of program flow, memory management, and fundamental programming principles.
 ## Selenium WebdriverIO - January 2019
 
 Selenium WebdriverIO
@@ -74,11 +75,15 @@ Selenium WebdriverIO
 
 ![Robot Framework Level 2](assets/certificates/2017-07-Udemy-RobotFramework-Level2.jpg)
 
+Completed Robot Framework Test Automation – Level 2, developing intermediate to advanced skills in building maintainable and scalable automated test suites with Robot Framework. Gained practical experience with advanced web element locators, conditional logic, loops, dictionaries, JavaScript execution, command-line test execution, and data-driven testing. Learned to create custom Robot Framework libraries to extend the framework’s functionality and applied these techniques in end-to-end automation scenarios involving complex web applications. The course strengthened my ability to structure, maintain, and execute robust automated tests for enterprise-level applications.
+
 ## Robot Framework Level 1 - May 2017
 
 [Robot Framework Level 1](https://www.udemy.com/course/robot-framework-1/) with Bryan Lamb
 
 ![Robot Framework Level 1](assets/certificates/2017-05-Udemy-RobotFramework-Level1.jpg)
+
+Completed Robot Framework Test Automation – Level 1, gaining practical experience in building automated tests with Robot Framework and Selenium WebDriver. Learned to create, structure, and execute automated web tests using reusable user-defined keywords, variables, resource files, and the Page Object pattern to improve maintainability and readability. Gained hands-on experience with browser automation, element locators, test setup and teardown, test data management, and running test suites through command line, batch files, Jenkins, and scheduled tasks. Also developed an understanding of Robot Framework libraries for Selenium, APIs, databases, XML, and file-based testing.
 
 ## Golang - February 2017
 
