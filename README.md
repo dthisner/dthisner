@@ -64,7 +64,7 @@ A handy PDF version of:
 
 # 👷‍♂️ Work History
 
-## QA Lead / Prevas, Uppsala 🇸🇪
+## QA Manager / Prevas, Uppsala 🇸🇪
 
 Sep 2026 -
 
