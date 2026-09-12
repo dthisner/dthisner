@@ -191,17 +191,18 @@ A 2-year program with a 3-month internship, covering 2D art, 3D modeling, animat
 
 # 🏆 Certificates
 
-| Course                                             | Location           | Completion    |
-| -------------------------------------------------- | ------------------ | ------------- |
-| Gen AI for QA: Playwright, Copilot & Claude Code   | Udemy              | August 2026   |
-| React 18 Course 2024 - Learn React JS the fast way | Udemy              | October 2024  |
-| Mobile Automation with Appium 2 & WDIO             | Udemy              | July 2024     |
-| Testing Javascript                                 | Testing Javascript | May 2022      |
-| Modern React with Redux                            | Udemy              | March 2021    |
-| React JS and Redux                                 | Udemy              | August 2020   |
-| Selenium WebDriver                                 | Udemy              | January 2019  |
-| Web Developer Bootcamp                             | Udemy              | April 2018    |
-| Learn How To Code: Go                              | Udemy              | February 2017 |
+| Course                                             | Location           | Completion     |
+| -------------------------------------------------- | ------------------ | -------------- |
+| Azure DevOps Fundamentals for Beginners            | Udemy              | September 2026 |
+| Gen AI for QA: Playwright, Copilot & Claude Code   | Udemy              | August 2026    |
+| React 18 Course 2024 - Learn React JS the fast way | Udemy              | October 2024   |
+| Mobile Automation with Appium 2 & WDIO             | Udemy              | July 2024      |
+| Testing Javascript                                 | Testing Javascript | May 2022       |
+| Modern React with Redux                            | Udemy              | March 2021     |
+| React JS and Redux                                 | Udemy              | August 2020    |
+| Selenium WebDriver                                 | Udemy              | January 2019   |
+| Web Developer Bootcamp                             | Udemy              | April 2018     |
+| Learn How To Code: Go                              | Udemy              | February 2017  |
 
 [See all certificates](./certificates.md)
 
