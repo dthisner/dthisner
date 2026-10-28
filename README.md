@@ -68,7 +68,8 @@ A handy PDF version of:
 
 Sep 2026 -
 
-- TBD
+- Taking over leading internal project 
+- Leading AI initiative to educate everyone around AI and how to use it
 
 ## QA Manager / Rebtel, Stockholm 🇸🇪
 
