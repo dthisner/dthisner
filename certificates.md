@@ -4,7 +4,7 @@
 
 [Azure DevOps Fundamentals for Beginners](https://www.udemy.com/course/azure-devops-for-beginners/) with Brian Culp
 
-![Azure DevOps Fundamentals for Beginners](assets/certificates/2026-09-Azure DevOps Fundamentals for Beginners by Brian Culp.jpg)
+![Azure DevOps Fundamentals for Beginners](assets/certificates/2026-09-AzureDevOpsFundamentalsForBeginners.jpg)
 
 This training focuses on building a practical foundation in Azure DevOps and understanding how modern development teams plan, manage, build, test, and deploy software. It covers using Azure Boards to organize work through Agile and Scrum processes, managing source code with Azure Repos and Git, working with branches, commits, pull requests, and GitHub integrations, and setting up local development workflows with tools such as Visual Studio Code. The course also introduces CI/CD with Azure Pipelines, including YAML-based build and release pipelines, automated builds, deployments to Azure services, and troubleshooting real deployment scenarios. It explores Azure Test Plans for creating and running manual tests, while providing hands-on exercises that take learners from creating their first Azure DevOps organization and project through deploying an application using an automated pipeline.
 
